@@ -1,10 +1,9 @@
-package com.csekuet14.rksazid.testyourmemory;
+package com.csekuet14.mahir.testyourmemory;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.Animation;

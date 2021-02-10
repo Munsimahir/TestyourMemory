@@ -1,4 +1,4 @@
-package com.csekuet14.rksazid.testyourmemory;
+package com.csekuet14.mahir.testyourmemory;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.csekuet14.rksazid.testyourmemory;
+package com.csekuet14.mahir.testyourmemory;
 
 import org.junit.Test;
 

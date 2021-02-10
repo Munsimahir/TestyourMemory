@@ -1,4 +1,4 @@
-package com.csekuet14.rksazid.testyourmemory;
+package com.csekuet14.mahir.testyourmemory;
 
 /**
  * Created by ASUS on 12/7/2016.
